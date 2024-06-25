@@ -44,4 +44,3 @@ This Python application converts an Excel file into multiple CSV files, splittin
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
